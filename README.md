@@ -21,10 +21,10 @@ YYYYMMDD;Codigo de Base (WBAN);Temperatura C;HHMM
 
 ### Ejemplo de resultado:
 
-| YYYYMMDD | WBAN | Temp | HHMM |
-| --- | --- | --- |
-| 20130131 | 03011 | 1.0 | 1415 |
-| 20130131 | 03012 | 4.0 | 1355 |
 
+| YYYYMMDD | WBAN  | Temp | HHMM |
+|----------|-------|------|------|
+| 20130131 | 03011 |  1.0 | 1415 |
+| 20130131 | 03012 |  4.0 | 1355 |
 
 
