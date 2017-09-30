@@ -17,7 +17,7 @@ Un registro por dia por base con la mayor temperatura registrada y la hora
 
 ### Formato del resultado:
 
-YYYYMMDD;Codigo de Base (WBAN);Temperatura C;HHMM
+|Fecha (YYYYMMDD)|Codigo de WBAN|Temp en C|Hora de medicion (HHMM)|
 
 ### Ejemplo de resultado:
 
